@@ -13,4 +13,5 @@
     direction: left;
     height: 100px;
     behavior: alternate;
+    user-select: none;
 }
