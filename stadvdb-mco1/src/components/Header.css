@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+.header-wrapper {
+    color: #C5B52A;
+    background-color: #232323;
+    font-family: 'Rubik Mono One', sans-serif;
+    padding: 1em 2em;
+}
+
+.header-Marq {
+    font-size: 64px;
+    width: 100%;
+    direction: left;
+    height: 100px;
+    behavior: alternate;
+}
